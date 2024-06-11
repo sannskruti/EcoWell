@@ -1,4 +1,6 @@
 <h2>EcoWell</h2><br>
+EcoWell is a cutting-edge application designed for nutritional analysis of food items, putting the power of information and healthy choices in your hands. Simply input a product's barcode id, and EcoWell seamlessly connects to Open Food APIs, providing detailed nutritional facts and ingredient information. <br><br>
+
 <img src="docs/images/EcoWellLogo.png">
 
 
